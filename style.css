@@ -1,0 +1,33 @@
+
+.main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  
+}
+.first input{
+    margin: 14px;
+    padding: 14px 87px;
+    margin: 25px 27px -16px 37px;
+    border-radius: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: oblique;
+}
+.sizing{
+    height: 60px;
+    width: 60px;
+    margin: 17px 9px -1px 4px;
+    background:black;
+    color: antiquewhite;
+    border: 2px solid rgba(98, 253, 253, 0.74);
+    border-radius: 260px;
+}
+.second{
+    /* padding-top: 2px; */
+   padding: 2px 5px 20px 51px;
+}
+ .main2{
+    border: 2px solid black;
+    border-radius: 5px;
+    background-color: rgba(171, 243, 219, 0.29);
+ }
